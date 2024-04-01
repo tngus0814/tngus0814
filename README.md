@@ -1,4 +1,12 @@
-### Hi there 👋
+## Introduction
+  안녕하세요.
+  영남대 컴퓨터공학과 조수현입니다.
+
+## Carrer
+- 영남대학교 컴퓨터공학과 재학중
+
+## Links
+- E-mail - plm9697@naver.com
 
 <!--
 **tngus0814/tngus0814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
