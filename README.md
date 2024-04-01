@@ -7,7 +7,8 @@
 
 ## Links
 - E-mail - plm9697@naver.com
-
+## Courses
+  Computer Engineering
 <!--
 **tngus0814/tngus0814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
